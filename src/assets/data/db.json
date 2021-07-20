@@ -1,0 +1,31 @@
+{
+    "products": [
+      { "id": 1, 
+        "title": "Oppo", 
+        "price": "20000" 
+      },
+      { "id": 2, 
+        "title": "Vivo", 
+        "price": "21000" 
+      }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "categories": [
+      {
+        "id": 1,
+        "categoryName": "Oppo"
+      },
+      {
+        "id": 2,
+        "categoryName": "Vivo"
+      },
+      {
+        "id": 3,
+        "categoryName": "RedMi"
+      }
+    ],
+    "profile": { "name": "typicode" }
+    
+  }
